@@ -1,0 +1,19 @@
+04-19 01:27:55.317      478-478/? I/spytag? onCreate Event Fired
+04-19 01:27:55.317      478-478/? I/spytag? onStart Event Fired
+04-19 01:27:55.326      478-478/? I/spytag? onResume Event Fired
+04-19 01:28:14.936      478-478/? I/spytag? onStop Event Fired
+04-19 01:28:37.085      478-478/? I/spytag? onRestart Event Fired
+04-19 01:28:37.085      478-478/? I/spytag? onStart Event Fired
+04-19 01:28:37.085      478-478/? I/spytag? onResume Event Fired
+04-19 01:28:52.985      478-478/? I/spytag? onStop Event Fired
+04-19 01:28:59.656      478-478/? I/spytag? onRestart Event Fired
+04-19 01:28:59.656      478-478/? I/spytag? onStart Event Fired
+04-19 01:28:59.656      478-478/? I/spytag? onResume Event Fired
+04-19 01:30:09.286      577-577/? I/spytag? onCreate Event Fired
+04-19 01:30:09.296      577-577/? I/spytag? onStart Event Fired
+04-19 01:30:09.296      577-577/? I/spytag? onResume Event Fired
+04-19 01:30:14.156      577-577/? I/spytag? onPause Event Fired
+04-19 01:30:16.566      577-577/? I/spytag? onResume Event Fired
+04-19 01:32:50.246      577-577/? I/spytag? onPause Event Fired
+04-19 01:32:52.146      577-577/? I/spytag? onStop Event Fired
+04-19 01:33:00.726      577-577/? E/spytag? We're going down captain!
